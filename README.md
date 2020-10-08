@@ -20,6 +20,6 @@ This project was coded using the Python Programming Language and the Selenium Ch
 - Windows CMD Prompt
 
 <br>SAMPLE CALL IN CMD PROMPT
-python file_to_main_program.py first_name last_name
+<br>python file_to_main_program.py first_name last_name
 
 <br>SAMPLE VIDEO
