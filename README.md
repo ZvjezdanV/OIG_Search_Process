@@ -19,4 +19,4 @@ This project goes through the steps of:
 - Visual Studio Code
 - Windows CMD Prompt
 
-SAMPLE VIDEO
+<br>SAMPLE VIDEO
