@@ -23,5 +23,5 @@ This project was coded using the Python Programming Language and the Selenium Ch
 - python file_to_main_program.py first_name last_name
 - python F:\ZvjezdanV_GitHub_Projects\PythonProjects\OIG_Search_Process\main_program.py Zvjezdan Veselinovic
 
-<h3>SAMPLE VIDEO</h3>
+SAMPLE VIDEO
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
