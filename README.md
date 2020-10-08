@@ -24,4 +24,4 @@ This project was coded using the Python Programming Language and the Selenium Ch
 - python F:\ZvjezdanV_GitHub_Projects\PythonProjects\OIG_Search_Process\main_program.py Zvjezdan Veselinovic
 
 <br>SAMPLE VIDEO<br>
-![OIG Search Process Sample GIF]()
+![OIG Search Process Sample GIF](/Demonstration/OIG_Search_Process_.gif)
