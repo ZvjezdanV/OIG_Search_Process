@@ -8,7 +8,7 @@ This project was coded using the Python Programming Language and the Selenium Ch
 - Open Google Chrome
 - Navigate to the Exclusions OIG Website
 - Searches for our person of interest
-- Checks if the person has any exciusion records against them. If they do, Python uses Selenium to scrape the data that displays on the page. 
+- Checks if the person has any exclusion records against them. If they do, Python uses Selenium to scrape the data that displays on the page. 
 - Creates a folder in a specified directory on the user's computer ( exact directory can be found in main_program.py )
 - Creates the person's text file in the specified directory 
 - Writes the person of interest's information inside of the text file using JSON format
