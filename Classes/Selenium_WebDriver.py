@@ -42,4 +42,4 @@ class WebDriver:
             
             return True if webElement != None else False
         except:
-            raise WebDriverException(f'Timeout: Failed to find {xpath}')
+            return False
